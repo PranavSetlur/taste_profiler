@@ -1,0 +1,51 @@
+id,name,description,best_label,salty,umami,sweet,sour,bitter,eval_grade
+1,Sriracha,"A type of hot sauce or chili sauce made from a paste of chili peppers, distilled vinegar, garlic, sugar, and salt.",sour,0.1,0.3283,0.0806,0.4262,0.3109,C
+2,Avocado,"A fruit with a creamy texture and a single large seed, known for its rich, buttery, and mildly nutty flavor.",sweet,0.0,0.1046499999999999,0.3458,0.1599,0.3442,B
+3,Bacon,"A type of salt-cured pork, typically cut into thin strips and pan-fried or baked until crispy.",salty,0.7300000000000001,0.6925000000000001,0.085,0.08,0.25,A
+4,Balsamic Vinegar,"A dark, concentrated, and intensely flavored vinegar originating in Italy, made wholly or partially from grape must.",sweet,0.0,0.1902,0.7567,0.2904,0.1206,B
+5,Blue Cheese,A classification of cheeses that have had cultures of the mold Penicillium added so the final product is spotted or veined.,umami,0.0,0.2973,0.2592,0.2626,0.1858,B
+6,Broccoli,"An edible green plant in the cabbage family whose large flowering head, stalk, and small associated leaves are eaten as a vegetable.",bitter,0.0,0.1313,0.2673,0.1476,0.37575,A
+7,Butter,A dairy product made from the fat and protein components of churned cream.,sweet,0.0,0.2,0.8,0.0,0.0,C
+8,Potato Chips,Thin slices of potato that have been either deep-fried or baked until crunchy. They are commonly served as a snack.,umami,0.0,0.2545,0.2504,0.1258,0.1946,C
+9,Ketchup,"A sweet and tangy table sauce typically made from tomatoes, sugar, vinegar, and seasonings.",umami,0.12,0.3178,0.27505,0.3056,0.2809,C
+10,Wasabi,"A plant of the Brassicaceae family, which includes cabbages and horseradish. Its rhizome is used as a pungent condiment.",bitter,0.095,0.2005,0.095,0.195,0.607,C
+11,Olives,"A small oval fruit with a hard stone and bitter flesh, green when unripe and bluish-black when ripe, used as food and as a source of oil.",sweet,0.0,0.21,0.4,0.18,0.26,C
+12,Honey,"A sweet, viscous food substance produced by honey bees and some related insects.",sweet,0.0,0.1,0.9,0.095,0.005,A
+13,Greek Yogurt,"A type of yogurt which has been strained to remove most of its whey, resulting in a thicker consistency and a tart flavor.",sour,0.08,0.2,0.42,0.5,0.1,A
+14,Espresso,"A full-flavored, concentrated form of coffee that is served in ""shots.""",umami,0.0,0.5824999999999999,0.475,0.025,0.31,C
+15,Pad Thai,A stir-fried rice noodle dish commonly served as a street food and at casual local eateries in Thailand.,umami,0.05525,0.34665,0.22365,0.0874,0.1406,A
+16,Pickles,"A cucumber that has been pickled in a brine, vinegar, or other solution and left to ferment for a period of time.",sour,0.16,0.1078,0.21505,0.6956000000000001,0.1509,A
+17,Tofu,A food prepared by coagulating soy milk and then pressing the resulting curds into solid white blocks of varying softness.,umami,0.0,0.45,0.24,0.18,0.18,A
+18,Ginger,"A flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine.",bitter,0.0,0.2,0.1,0.3,0.4,B
+19,Mango,"A stone fruit produced from numerous species of tropical trees, known for its sweet and sometimes tangy taste.",sweet,0.00285,0.10175,0.3866499999999999,0.1597,0.2263,A
+20,Miso Soup,A traditional Japanese soup consisting of a dashi stock into which softened miso paste is mixed.,umami,0.44,0.9000000000000001,0.14,0.1,0.14,A
+21,Guacamole,"An avocado-based dip, spread, or salad first developed in Mexico, often containing lime juice, cilantro, and onions.",bitter,0.0,0.1172,0.3078,0.1835999999999999,0.3229000000000001,A
+22,Salmon,A common food fish classified as an oily fish with a rich content of protein and omega-3 fatty acids.,bitter,0.1197,0.0125,0.0,0.025,0.1753,C
+23,Red Wine,"An alcoholic beverage made from fermented grapes, known for its complex flavor profile that can include notes of fruit, oak, and tannins.",sweet,0.0,0.165,0.6550000000000001,0.18,0.165,B
+24,Kale,"A green, leafy, cruciferous vegetable that is rich in nutrients, with a slightly bitter, earthy flavor.",bitter,0.0,0.1128,0.3032,0.1008,0.3964,A
+25,Sourdough Bread,"A bread made by the fermentation of dough using naturally occurring lactobacilli and yeast, known for its characteristic tangy taste.",sour,0.03,0.3073,0.06,0.4298,0.3398,A
+26,Hummus,"A Middle Eastern dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",umami,0.13,0.3259,0.2758,0.131,0.2369,B
+27,Tiramisu,"A coffee-flavoured Italian dessert made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese.",sweet,0.05,0.27435,0.5249999999999999,0.06995,0.097,A
+28,Artichoke,"A variety of a species of thistle cultivated as a food, with a tender heart and a mild, slightly nutty flavor.",umami,0.08,0.4344,0.1763,0.2237,0.314,B
+29,Steak,"A cut of meat, typically beef, sliced perpendicular to the muscle fibers and grilled or fried.",sweet,0.0081,0.23265,0.32856,0.12891,0.15429,C
+30,Lime,"A citrus fruit which is typically round, green in color, and contains acidic juice vesicles.",sour,0.0,0.1,0.1,0.9,0.1,A
+31,Mayonnaise,"A thick, cold, and creamy sauce or dressing commonly used on sandwiches and composed salads, made from oil, egg yolk, and an acid.",sour,0.03,0.1025,0.06,0.225,0.055,B
+32,Mustard,"A condiment made from whole, ground, or cracked mustard seeds, mixed with water, vinegar, or other liquids.",sour,0.06,0.1881,0.1700999999999999,0.4962,0.4068,A
+33,Onion,"A vegetable that is the most widely cultivated species of the genus Allium, known for its pungent and sharp flavor.",sweet,0.0,0.128,0.308,0.1,0.25,C
+34,Orange Juice,"The liquid extract of the fruit of the orange tree, produced by squeezing or reaming oranges.",sweet,0.00285,0.0861,0.33475,0.2375999999999999,0.27555,A
+35,Peanut Butter,"A food paste or spread made from ground, dry-roasted peanuts.",sweet,0.19,0.2975,0.475,0.12,0.215,B
+36,Popcorn,A variety of corn kernel which expands and puffs up when heated.,sweet,0.0,0.18,0.54,0.09,0.09,B
+37,Quinoa,A flowering plant in the amaranth family. It is a herbaceous annual plant grown as a crop primarily for its edible seeds.,bitter,0.0,0.1228,0.3447,0.1403,0.3509,A
+38,Raspberry,"An edible soft fruit, consisting of a cluster of reddish-pink drupelets.",sweet,0.0038,0.1248499999999999,0.3553,0.1523,0.29055,A
+39,Rice (White),"The polished seed of the grass species Oryza sativa. As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population.",sweet,0.0,0.2025,0.38,0.025,0.025,B
+40,Sauerkraut,"Finely cut raw cabbage that has been fermented by various lactic acid bacteria, with a distinct sour flavor.",sour,0.09,0.295,0.18,0.68,0.23,A
+41,Shrimp,"Decapod crustaceans with elongated bodies, commonly used in cooking and known for their mildly sweet and savory flavor.",umami,0.0,0.38205,0.3078,0.1750999999999999,0.2254499999999999,A
+42,Spinach,"A leafy green flowering plant native to central and western Asia, with a mild, slightly earthy taste.",sweet,0.0057,0.1093999999999999,0.30495,0.1427999999999999,0.3024,C
+43,Strawberry,"A widely grown hybrid species of the genus Fragaria, known for its characteristic aroma, bright red color, juicy texture, and sweetness.",sweet,0.0,0.1275,0.3681,0.183,0.2153999999999999,A
+44,Sweet Potato,"A large, starchy, sweet-tasting, tuberous root vegetable.",sweet,0.095,0.2,0.76,0.115,0.115,A
+45,Tuna (Canned),"A saltwater fish that belongs to the mackerel family, preserved in a can, often in oil or water.",umami,0.08,0.5724999999999999,0.16,0.105,0.105,A
+46,Turkey (Roasted),"The meat from a large bird, especially one that is raised for food, cooked with dry heat in an oven.",bitter,0.01,0.3102,0.1043999999999999,0.258,0.3252,B
+47,Watermelon,"A large fruit of a plant of the gourd family, with smooth green skin, reddish pulp, and watery juice.",sweet,0.0,0.103,0.76,0.215,0.016,A
+48,Cilantro,"An annual herb in the family Apiaceae. All parts of the plant are edible, but the fresh leaves and the dried seeds are the parts most traditionally used in cooking.",bitter,0.0,0.2,0.1,0.3,0.4000000000000001,A
+49,Anchovies,"A small, common forage fish of the family Engraulidae, often salt-cured and packed in oil.",salty,0.7200000000000001,0.6400000000000001,0.08,0.08,0.16,A
+50,Chickpeas,"An annual legume of the family Fabaceae, also known as garbanzo bean, with a nutty taste and granular texture.",umami,0.095,0.3925,0.285,0.12,0.12,B
